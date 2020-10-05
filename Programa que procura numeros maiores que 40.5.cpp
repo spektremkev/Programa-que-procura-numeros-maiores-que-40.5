@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*atividade 2_questão 3 Codigo criado no dia 06/05/2020*/
+/*Codigo criado no dia 06/05/2020*/
 
 main()<%
 	int numbT=0,numM=0;
